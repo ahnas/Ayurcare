@@ -1,0 +1,139 @@
+@media only screen and (max-width:414px) {
+    .dd-none{
+        display: none;
+    }
+    .top-bar {
+        padding: 15px 0;
+        background: white;
+        font-size: 18px;
+    }
+    .site-navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .search {
+        padding: 20px 0px;
+        display: none;
+    }
+
+    .site-navbar .toggle-button {
+        font-size: 35px;
+        position: absolute;
+        left: 0px;
+    }
+    .locate{
+        padding-right: 0px;
+    }
+    .banbg{
+        height: 65vh;
+    }
+
+    .ayurveda {
+        position: absolute;
+        font-family: 'Marcellus', serif !important;
+        padding: 40px 30px;
+        background: rgba(49, 49, 49, 0.5);
+        top: 70px;
+        right: 0;
+    }
+    .ayurveda h2 {
+        font-family: 'Marcellus', serif !important;
+        font-size: 30px;
+        color: white;
+    }
+
+    .ayurveda h1 {
+        font-family: 'Marcellus', serif;
+        font-size: 40px;
+        color: #FEDA77;
+    } 
+    
+    .svg-20{
+        width: 20px;
+        height: 20px;
+    }
+    .svg-15{
+        width: 15px;
+        height: 15px;
+    }
+
+    .overall {
+        font-family: 'Marcellus', serif;
+        font-size: 25px;
+        color: #000000;
+        text-align: center;
+        margin: 10px 15px;
+    }
+    .orang{
+        color: #FEDA77;
+    }
+
+    .sm-rela{
+        position: relative;
+    }
+    .sm-absolu{
+        position: absolute;
+    }
+    .about {
+        font-family: 'Marcellus', serif;
+        align-self: center;
+        background: rgba(49, 49, 49, 0.5);
+    }
+
+    .aboutt {
+        padding: 20px;
+        text-align: center;
+    }
+    .about h2 {
+        font-size: 30px;
+        font-family: 'Marcellus', serif;
+        color: white;
+    }
+    .sm-rela img{
+        height: 60vh;
+    }
+
+    .vector{
+        margin: 25px !important;
+    }
+    .sm-overa{
+        font-size: 20px;
+        padding: 5px 40px;
+        margin-bottom: 30px;
+    }
+    .sm-why{
+        object-fit: cover;
+        height: 70vh;
+        opacity: 1;
+        filter: none;
+    }
+    .mr-100 {
+        margin-right: 0px;
+    }
+    .topp {
+        background: rgb(0 0 0 / 70%);
+        padding-left: 30px;
+        position: relative;
+        top: 64px;
+        margin-left: 80px;
+        text-align: center;
+    }
+    .mb-150{
+        margin-bottom: 150px !important;
+    }
+
+
+    .linefont{
+        font-size: 20px !important;
+        margin: 25px 30px;
+    }
+
+    .treatment ul li {
+        list-style: none;
+        font-family: 'Marcellus', serif;
+        font-size: 20px;
+        padding: 10px 0px;
+    }
+    
+}
