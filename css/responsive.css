@@ -1,4 +1,17 @@
 @media only screen and (max-width:1200px){
+    
+    .ayurrr {
+        font-family: 'Marcellus', serif !important;
+        background: rgba(49, 49, 49, 0.7);
+        right: 0;
+        padding: 45px;
+        margin-top: 60px;
+    }
+    .ayurrr2 {
+        margin-top: 130px;
+        z-index: 10;
+        padding: 40px;
+    }
     .site-navbar .site-navigation .site-menu {
         padding-inline-start: 0px !important;
         margin-bottom: 0;
@@ -39,6 +52,15 @@
     }
 }
 @media only screen and (max-width:992px){
+
+    .ayurrr {
+        font-family: 'Marcellus', serif !important;
+        background: rgba(49, 49, 49, 0.7);
+        right: 0;
+        padding: 20px;
+        margin-top: 0px;
+        text-align: center;
+    }
     .just {
     width: 100%;
 }
@@ -107,286 +129,130 @@
     
 }
 
-@media only screen and (min-width: 769px) and (max-width: 991px) {
-    .justih{
-        justify-content: center;
-    }
-    
-    .dd-none{
+@media only screen and (min-width: 769px) and (max-width: 991px){
+    body{
         display: none;
-    }
-    .dd-block{
-        display: block;
-    }
-    .top-bar {
-        padding: 15px 0;
-        background: white;
-        font-size: 18px;
-    }
-    .site-navbar {
-        padding-top: 0;
-        padding-bottom: 0;
-    }
-
-    .search {
-        padding: 20px 0px;
-        display: none;
-    }
-
-    .site-navbar .toggle-button {
-        font-size: 35px;
-        position: absolute;
-        left: 0px;
-    }
-    .locate{
-        padding-right: 0px;
-    }
-    .banbg{
-        height: 75vh;
-    }
-
-    .ayurveda {
-        position: absolute;
-        font-family: 'Marcellus', serif !important;
-        padding: 40px 30px;
-        background: rgba(49, 49, 49, 0.5);
-        top: 75px;
-        right: 0;
-    }
-    .ayurveda h2 {
-        font-family: 'Marcellus', serif !important;
-        font-size: 30px;
-        color: white;
-    }
-
-    .ayurveda h1 {
-        font-family: 'Marcellus', serif;
-        font-size: 40px;
-        color: #FEDA77;
-    } 
-    
-    .svg-20{
-        width: 20px;
-        height: 20px;
-    }
-    .svg-15{
-        width: 15px;
-        height: 15px;
-    }
-
-    .overall {
-        font-family: 'Marcellus', serif;
-        font-size: 25px;
-        color: #000000;
-        text-align: center;
-        margin: 20px 85px;
-    }
-    .orang{
-        color: #FEDA77;
-    }
-
-    .sm-rela{
-        position: relative;
-    }
-    .sm-absolu{
-        position: absolute;
-    }
-    .about {
-        font-family: 'Marcellus', serif;
-        align-self: center;
-        background: rgba(49, 49, 49, 0.5);
-    }
-
-    .aboutt {
-        padding: 20px;
-        text-align: center;
-    }
-    .about h2 {
-        font-size: 30px;
-        font-family: 'Marcellus', serif;
-        color: white;
-    }
-    .sm-rela img{
-        height: 65vh;
-    }
-
-    .vector{
-        margin: 15px !important;
-    }
-    .sm-overa{
-        font-size: 20px;
-        padding: 0px 0px;
-        margin-bottom: 30px;
-    }
-    .sm-why{
-        object-fit: none;
-        height: 70vh;
-        opacity: 1;
-        filter: none;
-    }
-    .mr-100 {
-        margin-right: 0px;
-    }
-    .topp {
-        background: rgb(0 0 0 / 70%);
-        padding-left: 30px;
-        position: relative;
-        top: 58px;
-        margin-left: 80px;
-        text-align: center;
-    }
-    .mb-150{
-        margin-bottom: 150px !important;
-    }
-
-
-    .linefont{
-        font-size: 20px !important;
-        margin: 25px 30px;
-    }
-
-    .treatment ul li {
-        list-style: none;
-        font-family: 'Marcellus', serif;
-        font-size: 20px;
-        padding: 7px 0px;
-    }
-    .treatment ul{
-        padding-left: 90px;
-    }
-    .treatment img{
-        width: 15px;
-    }
-    .treatment span{
-        font-size: 22px;
-        margin-left: 0px !important;
-    }
-    .content {
-        padding: 25px 0px;
-        position: absolute;
-        bottom: 0;
-        background: rgb(0 0 0 / 55%);
-        right: 15px;
-        left: 15px;
-        font-family: 'Marcellus', serif;
-    }
-    .content h2 {
-        color: white;
-        font-family: 'Marcellus', serif;
-        font-size: 30px;
-        margin-bottom: 2px;
-    }
-    .content p {
-        color: white;
-        font-family: 'Marcellus', serif;
-        font-size: 17px;
-        line-height: 20px;
-        margin-bottom: 15px;
-    }
-    .read {
-        color: black !important;
-        font-family: 'Marcellus', serif;
-        background-color: #FBFBFB !important;
-        padding: 8px 15px;
-        border: none;
-        font-size: 14px;
-        font-weight: 600;
-    }
-    hr {
-        border: none;
-        height: 2px;
-        color: #333;
-        background-color: #FEDA77;
-        margin-bottom: 0px !important;
-    }
-    .font-20 {
-        font-size: 20px;
-    }
-    .care .locate {
-        position: initial;
-        padding: 55px 100px;
-        right: 0px;
-        top: 35%;
-        background: rgb(0 0 0 / 55%);
-    }
-    .form-control {
-        height: 40px;
-        background-color: transparent;
-    }
-    .locate span {
-        color: black;
-        background-color: #FEDA77;
-        border-color: #FEDA77;
-        font-weight: 600;
-        padding: 0px 25px;
-        font-size: 15px;
-    }
-    .check {
-        background-color: black;
-        font-family: 'Marcellus', serif;
-        color: white;
-    }
-    .locates p {
-        margin-bottom: 0px;
-        font-size: 20px;
-        color: white;
-        font-family: 'Marcellus', serif;
-    }
-    .locates .ayt {
-        background-color: transparent;
-        color: #FEDA77;
-        padding: 0 !important;
-        font-size: 20px;
-    }
-    .flogo{
-        justify-content: center;
-    }
-    .flocat{
-        margin: 10px 35px;
-    }
-    .use ul li {
-        padding: 2px 0px;
-        font-size: 14px;
-    }
-    .use ul {
-        list-style: none;
-        padding: 0px;
-        padding-left: 50px;
-    }
-    .use ul span {
-        font-size: 15px;
-        font-weight: 900;
-        color: #FEDA77;
-    }
-    .use h5 {
-        padding-left: 50px;
-    }
-    .use {
-        color: white;
-        padding: 0px;
-    }
-    .cont {
-        color: #FEDA77;
-        font-size: 18px;
-    }
-    .follow {
-        text-align: center;
-        color: white;
-    }
-    .copy {
-        font-family: 'Marcellus', serif !important;
-        color: white;
-        font-size: 14px;
-        text-align: center;
-    }
-    .makes {
-        background-color: #313131 !important;
-        color: white !important;
     }
 }
 
 
 @media only screen and (max-width:768px) {
+    .contact .form-control {
+        border: none;
+        border-bottom: 1px solid #FEDA77;
+        border-radius: 0px;
+        height: 40px;
+    }
+    .contact {
+        font-family: 'Marcellus', serif !important;
+        color: white;
+        background: rgba(49, 49, 49, 0.8);
+        padding: 25px;
+    }
+    .withus {
+        max-width: 760px;
+        bottom: 0px;
+        position: relative;
+        margin-bottom: 5px;
+    }
+    .touch {
+        margin-top: 75px;
+        margin-left: 0px;
+        align-self: center;
+        text-align: -webkit-left;
+    }
+
+    .curre{
+        margin-bottom: 6rem !important;
+    }
+    .loc-sm{
+        height: 60vh;
+    }
+    .locates {
+        left: 0;
+    }
+    .vision p {
+        color: black;
+        padding: 10px;
+        text-align: center;
+    }
+    .vision h2 {
+        font-size: 25px;
+        font-family: 'Marcellus', serif !important;
+        font-weight: 600;
+    }
+    .vision{
+        padding-top: 45%;
+    }
+    .ayurrr2 {
+        margin-top: 0px !important;
+        z-index: 10;
+        padding: 0px 80px 0px 80px !important;
+        background-color: white !important;
+    
+    }
+    .ayur-sm p{
+        
+        color: black !important;
+    }
+    .ayurrr2 h2 {
+        color: black !important;
+    }
+    .imgayur img{
+        margin-top: 250px;
+    }
+    .ayurrr h2 {
+        font-size: 30px;
+        font-family: 'Marcellus', serif !important;
+        color: white;
+    }
+    .ayurrr p {
+        line-height: 27px;
+        font-size: 20px;
+        font-family: 'Marcellus', serif !important;
+        color: white;
+    }
+    .ayurrr {
+        left: 0;
+        font-family: 'Marcellus', serif !important;
+        background: rgba(49, 49, 49, 0.7);
+        right: 0;
+        padding: 65px;
+        margin-top: 55px;
+        text-align: center;
+    }
+    .aboout img{
+        height: 90vh;
+    }
+   
+    .titile span{
+        font-size: 56px;
+        font-weight: 600;
+        line-height: 70px;
+    }
+    .titile h1 {
+        font-weight: 100;
+        font-size: 38px;
+        font-family: 'Marcellus', serif !important;
+    }
+    .titile {
+        position: absolute;
+        font-family: 'Marcellus', serif !important;
+        padding: 20px;
+        background: rgba(49, 49, 49, 0.7);
+        top: unset;
+        left: 192px;
+        bottom: 0;
+
+        text-align: center;
+        font-family: 'Marcellus', serif !important;
+    }
+    .title-fit{
+        height: 40vh;
+    }
+
+
+
     .justih{
         justify-content: center;
     }
@@ -455,10 +321,10 @@
 
     .overall {
         font-family: 'Marcellus', serif;
-        font-size: 25px;
+        font-size: 30px;
         color: #000000;
         text-align: center;
-        margin: 20px 85px;
+        margin: 20px 40px;
     }
     .orang{
         color: #FEDA77;
@@ -582,11 +448,12 @@
         font-size: 20px;
     }
     .care .locate {
-        position: initial;
-        padding: 55px 100px;
+        position: absolute;
+        padding: 55px;
         right: 0px;
-        top: 35%;
-        background: rgb(0 0 0 / 55%);
+        top: unset;
+        bottom: 0;
+        background: rgb(0 0 0 / 65%);
     }
     .form-control {
         height: 40px;
@@ -665,6 +532,123 @@
 }
 
 @media only screen and (max-width:576px) {
+    .prod{
+        margin-top: 55px !important;
+        padding: 30px !important;
+    }
+    .prod p{
+        padding: 0px;
+    }
+    .proimag{
+        height: 100vh;
+        margin-bottom: 15px;    
+    }
+    .pro{
+        height: 240px;
+    }
+    
+    .touch {
+        margin-bottom: 150px;
+        margin-top: 40px;
+        margin-left: 0px;
+        align-self: center;
+        text-align: -webkit-left;
+    }
+    .withus {
+        bottom: 0px;
+        position: relative;
+        margin-bottom: -130px;
+    }
+
+    .curre{
+        margin-bottom: 6rem !important;
+    }
+    .loc-sm{
+        height: 40vh;
+    }
+    .locates {
+        left: 0;
+    }
+    .vision p {
+        color: black;
+        padding: 10px;
+        text-align: center;
+    }
+    .vision h2 {
+        font-size: 25px;
+        font-family: 'Marcellus', serif !important;
+        font-weight: 600;
+    }
+    .vision{
+        padding-top: 40%;
+    }
+    .ayurrr2 {
+        margin-top: 0px !important;
+        z-index: 10;
+        padding: 0px 40px 0px 40px !important;
+        background-color: white !important;
+    
+    }
+    .ayur-sm p{
+        
+        color: black !important;
+    }
+    .ayurrr2 h2 {
+        color: black !important;
+    }
+    .imgayur img{
+        margin-top: 250px;
+    }
+    .ayurrr h2 {
+        font-size: 25px;
+        font-family: 'Marcellus', serif !important;
+        color: white;
+    }
+    .ayurrr p {
+        line-height: 25px;
+        font-size: 17px;
+        font-family: 'Marcellus', serif !important;
+        color: white;
+    }
+    .ayurrr {
+        left: 0;
+        font-family: 'Marcellus', serif !important;
+        background: rgba(49, 49, 49, 0.7);
+        right: 0;
+        padding: 50px;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .aboout img{
+        height: 90vh;
+    }
+   
+    .titile span{
+        font-size: 56px;
+        font-weight: 600;
+        line-height: 70px;
+    }
+    .titile h1 {
+        font-weight: 100;
+        font-size: 38px;
+        font-family: 'Marcellus', serif !important;
+    }
+    .titile {
+        position: absolute;
+        font-family: 'Marcellus', serif !important;
+        padding: 20px;
+        background: rgba(49, 49, 49, 0.7);
+        top: unset;
+        left: 96px;
+        bottom: 0;
+
+        text-align: center;
+        font-family: 'Marcellus', serif !important;
+    }
+    .title-fit{
+        height: 40vh;
+    }
+
     .dd-none{
         display: none;
     }
@@ -726,10 +710,10 @@
 
     .overall {
         font-family: 'Marcellus', serif;
-        font-size: 25px;
+        font-size: 30px;
         color: #000000;
         text-align: center;
-        margin: 10px 85px;
+        margin: 10px 50px;
     }
     .orang{
         color: #FEDA77;
@@ -853,11 +837,12 @@
         font-size: 20px;
     }
     .care .locate {
-        position: initial;
-        padding: 40px 20px;
+        position: absolute;
+        padding: 25px 60px;
         right: 0px;
-        top: 35%;
-        background: rgb(0 0 0 / 55%);
+        top: unset;
+        bottom: 0;
+        background: rgb(0 0 0 / 65%);
     }
     .form-control {
         height: 40px;
@@ -936,6 +921,116 @@
 }
 
 @media only screen and (max-width:414px) {
+    .prod p{
+        padding: 0px;
+    }
+    .proimag{
+        height: 86vh;
+        margin-bottom: 15px;    
+    }
+    .pro{
+        height: 200px;
+    }
+
+    .touch {
+        margin-bottom: 150px;
+        margin-top: 40px;
+        margin-left: 0px;
+        align-self: center;
+        text-align: -webkit-left;
+    }
+    .withus {
+        bottom: 0px;
+        position: relative;
+        margin-bottom: -130px;
+    }
+    .curre{
+        margin-bottom: 6rem !important;
+    }
+    .loc-sm{
+        height: 40vh;
+    }
+    .locates {
+        left: 0;
+    }
+    .vision p {
+        color: black;
+        padding: 10px;
+        text-align: center;
+    }
+    .vision h2 {
+        font-size: 25px;
+        font-family: 'Marcellus', serif !important;
+        font-weight: 600;
+    }
+    .vision{
+        padding-top: 30%;
+    }
+    .ayurrr2 {
+        margin-top: 0px !important;
+        z-index: 10;
+        padding: 40px;
+        background-color: white !important;
+    
+    }
+    .ayur-sm p{
+        color: black !important;
+    }
+    .ayurrr2 h2 {
+        color: black !important;
+    }
+    .imgayur img{
+        margin-top: 336px;
+    }
+    .ayurrr h2 {
+        font-size: 25px;
+        font-family: 'Marcellus', serif !important;
+        color: white;
+    }
+    .ayurrr p {
+        line-height: 22px;
+        font-size: 17px;
+        font-family: 'Marcellus', serif !important;
+        color: white;
+    }
+    .ayurrr {
+        left: 0;
+        font-family: 'Marcellus', serif !important;
+        background: rgba(49, 49, 49, 0.7);
+        right: 0;
+        padding: 20px;
+        margin-top: 37px;
+        text-align: center;
+    }
+    .aboout img{
+        height: 90vh;
+    }
+   
+    .titile span{
+        font-size: 45px;
+        font-weight: 600;
+        line-height: 70px;
+    }
+    .titile h1 {
+        font-weight: 100;
+        font-size: 35px;
+        font-family: 'Marcellus', serif !important;
+    }
+    .titile {
+        position: absolute;
+        font-family: 'Marcellus', serif !important;
+        padding: 15px;
+        background: rgba(49, 49, 49, 0.7);
+        top: unset;
+        left: 69px;
+        bottom: 0;
+        
+        text-align: center;
+        font-family: 'Marcellus', serif !important;
+    }
+    .title-fit{
+        height: 40vh;
+    }
     .dd-none{
         display: none;
     }
@@ -1124,11 +1219,12 @@
         font-size: 20px;
     }
     .care .locate {
-        position: initial;
-        padding: 40px 20px;
+        position: absolute;
+        padding: 20px 25px;
         right: 0px;
-        top: 35%;
-        background: rgb(0 0 0 / 55%);
+        top: unset;
+        bottom: 0;
+        background: rgb(0 0 0 / 65%);
     }
     .form-control {
         height: 40px;
