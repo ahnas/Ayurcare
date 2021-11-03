@@ -1,3 +1,940 @@
+@media only screen and (max-width:1200px){
+    .site-navbar .site-navigation .site-menu {
+        padding-inline-start: 0px !important;
+        margin-bottom: 0;
+    }
+    .locate .branch { 
+        padding: 20px 20px;
+        color: white;
+    }
+    .locate {
+        padding-left: 0;
+        padding-right: 0;
+        place-self: center;
+        font-weight: 600;
+    }
+    .ayurveda {
+        position: absolute;
+        font-family: 'Marcellus', serif !important;
+        padding: 30px 30px;
+        background: rgba(49, 49, 49, 0.5);
+        top: 110px;
+        right: 0;
+    }
+    .just{
+        width: 87%;
+    }
+    .topp {
+        background: rgb(0 0 0 / 70%);
+        padding-left: 125px;
+        position: relative;
+        top: 74px;
+    }
+    .care .locate {
+        position: absolute;
+        padding: 50px;
+        right: 0px;
+        top: 29%;
+        background: rgb(0 0 0 / 55%);
+    }
+}
+@media only screen and (max-width:992px){
+    .just {
+    width: 100%;
+}
+    .site-navbar .site-navigation .site-menu {
+        padding-inline-start: 0px !important;
+        margin-bottom: 0;
+    }
+    .site-navbar .site-navigation .site-menu > li > a {
+        font-size: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-weight: 600;
+        padding: 20px 0px;
+        color: #000 !important;
+        display: inline-block;
+        text-decoration: none !important;
+    }
+    .locate .branch { 
+        padding: 20px 14px;
+        color: white;
+    }
+    .locate {
+        padding-left: 0;
+        padding-right: 0;
+        place-self: center;
+        font-weight: 600;
+    }
+    .ayurveda {
+        position: absolute;
+        font-family: 'Marcellus', serif !important;
+        padding: 30px 30px;
+        background: rgba(49, 49, 49, 0.5);
+        top: 60px;
+        right: 0;
+    }
+    .topp {
+        background: rgb(0 0 0 / 70%);
+        padding-left: 125px;
+        position: relative;
+        top: 38px;
+    }
+    .why {
+        padding: 25px 0px;
+        place-self: center !important;
+    }
+
+    .mb-140{
+        margin-bottom: 140px !important;
+    }
+    .content {
+        padding: 12px 0px;
+        position: absolute;
+        bottom: 0;
+        background: rgb(0 0 0 / 55%);
+        right: 15px;
+        left: 15px;
+        font-family: 'Marcellus', serif;
+    }
+    .care .locate {
+        position: absolute;
+        padding: 50px;
+        right: 0px;
+        top: 23%;
+        background: rgb(0 0 0 / 55%);
+    }
+    
+}
+
+@media only screen and (min-width: 769px) and (max-width: 991px) {
+    .justih{
+        justify-content: center;
+    }
+    
+    .dd-none{
+        display: none;
+    }
+    .dd-block{
+        display: block;
+    }
+    .top-bar {
+        padding: 15px 0;
+        background: white;
+        font-size: 18px;
+    }
+    .site-navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .search {
+        padding: 20px 0px;
+        display: none;
+    }
+
+    .site-navbar .toggle-button {
+        font-size: 35px;
+        position: absolute;
+        left: 0px;
+    }
+    .locate{
+        padding-right: 0px;
+    }
+    .banbg{
+        height: 75vh;
+    }
+
+    .ayurveda {
+        position: absolute;
+        font-family: 'Marcellus', serif !important;
+        padding: 40px 30px;
+        background: rgba(49, 49, 49, 0.5);
+        top: 75px;
+        right: 0;
+    }
+    .ayurveda h2 {
+        font-family: 'Marcellus', serif !important;
+        font-size: 30px;
+        color: white;
+    }
+
+    .ayurveda h1 {
+        font-family: 'Marcellus', serif;
+        font-size: 40px;
+        color: #FEDA77;
+    } 
+    
+    .svg-20{
+        width: 20px;
+        height: 20px;
+    }
+    .svg-15{
+        width: 15px;
+        height: 15px;
+    }
+
+    .overall {
+        font-family: 'Marcellus', serif;
+        font-size: 25px;
+        color: #000000;
+        text-align: center;
+        margin: 20px 85px;
+    }
+    .orang{
+        color: #FEDA77;
+    }
+
+    .sm-rela{
+        position: relative;
+    }
+    .sm-absolu{
+        position: absolute;
+    }
+    .about {
+        font-family: 'Marcellus', serif;
+        align-self: center;
+        background: rgba(49, 49, 49, 0.5);
+    }
+
+    .aboutt {
+        padding: 20px;
+        text-align: center;
+    }
+    .about h2 {
+        font-size: 30px;
+        font-family: 'Marcellus', serif;
+        color: white;
+    }
+    .sm-rela img{
+        height: 65vh;
+    }
+
+    .vector{
+        margin: 15px !important;
+    }
+    .sm-overa{
+        font-size: 20px;
+        padding: 0px 0px;
+        margin-bottom: 30px;
+    }
+    .sm-why{
+        object-fit: none;
+        height: 70vh;
+        opacity: 1;
+        filter: none;
+    }
+    .mr-100 {
+        margin-right: 0px;
+    }
+    .topp {
+        background: rgb(0 0 0 / 70%);
+        padding-left: 30px;
+        position: relative;
+        top: 58px;
+        margin-left: 80px;
+        text-align: center;
+    }
+    .mb-150{
+        margin-bottom: 150px !important;
+    }
+
+
+    .linefont{
+        font-size: 20px !important;
+        margin: 25px 30px;
+    }
+
+    .treatment ul li {
+        list-style: none;
+        font-family: 'Marcellus', serif;
+        font-size: 20px;
+        padding: 7px 0px;
+    }
+    .treatment ul{
+        padding-left: 90px;
+    }
+    .treatment img{
+        width: 15px;
+    }
+    .treatment span{
+        font-size: 22px;
+        margin-left: 0px !important;
+    }
+    .content {
+        padding: 25px 0px;
+        position: absolute;
+        bottom: 0;
+        background: rgb(0 0 0 / 55%);
+        right: 15px;
+        left: 15px;
+        font-family: 'Marcellus', serif;
+    }
+    .content h2 {
+        color: white;
+        font-family: 'Marcellus', serif;
+        font-size: 30px;
+        margin-bottom: 2px;
+    }
+    .content p {
+        color: white;
+        font-family: 'Marcellus', serif;
+        font-size: 17px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+    .read {
+        color: black !important;
+        font-family: 'Marcellus', serif;
+        background-color: #FBFBFB !important;
+        padding: 8px 15px;
+        border: none;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    hr {
+        border: none;
+        height: 2px;
+        color: #333;
+        background-color: #FEDA77;
+        margin-bottom: 0px !important;
+    }
+    .font-20 {
+        font-size: 20px;
+    }
+    .care .locate {
+        position: initial;
+        padding: 55px 100px;
+        right: 0px;
+        top: 35%;
+        background: rgb(0 0 0 / 55%);
+    }
+    .form-control {
+        height: 40px;
+        background-color: transparent;
+    }
+    .locate span {
+        color: black;
+        background-color: #FEDA77;
+        border-color: #FEDA77;
+        font-weight: 600;
+        padding: 0px 25px;
+        font-size: 15px;
+    }
+    .check {
+        background-color: black;
+        font-family: 'Marcellus', serif;
+        color: white;
+    }
+    .locates p {
+        margin-bottom: 0px;
+        font-size: 20px;
+        color: white;
+        font-family: 'Marcellus', serif;
+    }
+    .locates .ayt {
+        background-color: transparent;
+        color: #FEDA77;
+        padding: 0 !important;
+        font-size: 20px;
+    }
+    .flogo{
+        justify-content: center;
+    }
+    .flocat{
+        margin: 10px 35px;
+    }
+    .use ul li {
+        padding: 2px 0px;
+        font-size: 14px;
+    }
+    .use ul {
+        list-style: none;
+        padding: 0px;
+        padding-left: 50px;
+    }
+    .use ul span {
+        font-size: 15px;
+        font-weight: 900;
+        color: #FEDA77;
+    }
+    .use h5 {
+        padding-left: 50px;
+    }
+    .use {
+        color: white;
+        padding: 0px;
+    }
+    .cont {
+        color: #FEDA77;
+        font-size: 18px;
+    }
+    .follow {
+        text-align: center;
+        color: white;
+    }
+    .copy {
+        font-family: 'Marcellus', serif !important;
+        color: white;
+        font-size: 14px;
+        text-align: center;
+    }
+    .makes {
+        background-color: #313131 !important;
+        color: white !important;
+    }
+}
+
+
+@media only screen and (max-width:768px) {
+    .justih{
+        justify-content: center;
+    }
+    
+    .dd-none{
+        display: none;
+    }
+    .dd-block{
+        display: block;
+    }
+    .top-bar {
+        padding: 15px 0;
+        background: white;
+        font-size: 18px;
+    }
+    .site-navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .search {
+        padding: 20px 0px;
+        display: none;
+    }
+
+    .site-navbar .toggle-button {
+        font-size: 35px;
+        position: absolute;
+        left: 0px;
+    }
+    .locate{
+        padding-right: 0px;
+    }
+    .banbg{
+        height: 75vh;
+    }
+
+    .ayurveda {
+        position: absolute;
+        font-family: 'Marcellus', serif !important;
+        padding: 40px 30px;
+        background: rgba(49, 49, 49, 0.5);
+        top: 75px;
+        right: 0;
+    }
+    .ayurveda h2 {
+        font-family: 'Marcellus', serif !important;
+        font-size: 30px;
+        color: white;
+    }
+
+    .ayurveda h1 {
+        font-family: 'Marcellus', serif;
+        font-size: 40px;
+        color: #FEDA77;
+    } 
+    
+    .svg-20{
+        width: 20px;
+        height: 20px;
+    }
+    .svg-15{
+        width: 15px;
+        height: 15px;
+    }
+
+    .overall {
+        font-family: 'Marcellus', serif;
+        font-size: 25px;
+        color: #000000;
+        text-align: center;
+        margin: 20px 85px;
+    }
+    .orang{
+        color: #FEDA77;
+    }
+
+    .sm-rela{
+        position: relative;
+    }
+    .sm-absolu{
+        position: absolute;
+    }
+    .about {
+        font-family: 'Marcellus', serif;
+        align-self: center;
+        background: rgba(49, 49, 49, 0.5);
+    }
+
+    .aboutt {
+        padding: 20px;
+        text-align: center;
+    }
+    .about h2 {
+        font-size: 30px;
+        font-family: 'Marcellus', serif;
+        color: white;
+    }
+    .sm-rela img{
+        height: 65vh;
+    }
+
+    .vector{
+        margin: 15px !important;
+    }
+    .sm-overa{
+        font-size: 20px;
+        padding: 0px 0px;
+        margin-bottom: 30px;
+    }
+    .sm-why{
+        object-fit: none;
+        height: 70vh;
+        opacity: 1;
+        filter: none;
+    }
+    .mr-100 {
+        margin-right: 0px;
+    }
+    .topp {
+        background: rgb(0 0 0 / 70%);
+        padding-left: 30px;
+        position: relative;
+        top: 58px;
+        margin-left: 80px;
+        text-align: center;
+    }
+    .mb-150{
+        margin-bottom: 150px !important;
+    }
+
+
+    .linefont{
+        font-size: 20px !important;
+        margin: 25px 30px;
+    }
+
+    .treatment ul li {
+        list-style: none;
+        font-family: 'Marcellus', serif;
+        font-size: 20px;
+        padding: 7px 0px;
+    }
+    .treatment ul{
+        padding-left: 90px;
+    }
+    .treatment img{
+        width: 15px;
+    }
+    .treatment span{
+        font-size: 22px;
+        margin-left: 0px !important;
+    }
+    .content {
+        padding: 25px 0px;
+        position: absolute;
+        bottom: 0;
+        background: rgb(0 0 0 / 55%);
+        right: 15px;
+        left: 15px;
+        font-family: 'Marcellus', serif;
+    }
+    .content h2 {
+        color: white;
+        font-family: 'Marcellus', serif;
+        font-size: 30px;
+        margin-bottom: 2px;
+    }
+    .content p {
+        color: white;
+        font-family: 'Marcellus', serif;
+        font-size: 17px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+    .read {
+        color: black !important;
+        font-family: 'Marcellus', serif;
+        background-color: #FBFBFB !important;
+        padding: 8px 15px;
+        border: none;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    hr {
+        border: none;
+        height: 2px;
+        color: #333;
+        background-color: #FEDA77;
+        margin-bottom: 0px !important;
+    }
+    .font-20 {
+        font-size: 20px;
+    }
+    .care .locate {
+        position: initial;
+        padding: 55px 100px;
+        right: 0px;
+        top: 35%;
+        background: rgb(0 0 0 / 55%);
+    }
+    .form-control {
+        height: 40px;
+        background-color: transparent;
+    }
+    .locate span {
+        color: black;
+        background-color: #FEDA77;
+        border-color: #FEDA77;
+        font-weight: 600;
+        padding: 0px 25px;
+        font-size: 15px;
+    }
+    .check {
+        background-color: black;
+        font-family: 'Marcellus', serif;
+        color: white;
+    }
+    .locates p {
+        margin-bottom: 0px;
+        font-size: 20px;
+        color: white;
+        font-family: 'Marcellus', serif;
+    }
+    .locates .ayt {
+        background-color: transparent;
+        color: #FEDA77;
+        padding: 0 !important;
+        font-size: 20px;
+    }
+    .flogo{
+        justify-content: center;
+    }
+    .flocat{
+        margin: 10px 35px;
+    }
+    .use ul li {
+        padding: 2px 0px;
+        font-size: 14px;
+    }
+    .use ul {
+        list-style: none;
+        padding: 0px;
+        padding-left: 50px;
+    }
+    .use ul span {
+        font-size: 15px;
+        font-weight: 900;
+        color: #FEDA77;
+    }
+    .use h5 {
+        padding-left: 50px;
+    }
+    .use {
+        color: white;
+        padding: 0px;
+    }
+    .cont {
+        color: #FEDA77;
+        font-size: 18px;
+    }
+    .follow {
+        text-align: center;
+        color: white;
+    }
+    .copy {
+        font-family: 'Marcellus', serif !important;
+        color: white;
+        font-size: 14px;
+        text-align: center;
+    }
+    .makes {
+        background-color: #313131 !important;
+        color: white !important;
+    }
+}
+
+@media only screen and (max-width:576px) {
+    .dd-none{
+        display: none;
+    }
+    .top-bar {
+        padding: 15px 0;
+        background: white;
+        font-size: 18px;
+    }
+    .site-navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .search {
+        padding: 20px 0px;
+        display: none;
+    }
+
+    .site-navbar .toggle-button {
+        font-size: 35px;
+        position: absolute;
+        left: 0px;
+    }
+    .locate{
+        padding-right: 0px;
+    }
+    .banbg{
+        height: 75vh;
+    }
+
+    .ayurveda {
+        position: absolute;
+        font-family: 'Marcellus', serif !important;
+        padding: 40px 30px;
+        background: rgba(49, 49, 49, 0.5);
+        top: 65px;
+        right: 0;
+    }
+    .ayurveda h2 {
+        font-family: 'Marcellus', serif !important;
+        font-size: 30px;
+        color: white;
+    }
+
+    .ayurveda h1 {
+        font-family: 'Marcellus', serif;
+        font-size: 40px;
+        color: #FEDA77;
+    } 
+    
+    .svg-20{
+        width: 20px;
+        height: 20px;
+    }
+    .svg-15{
+        width: 15px;
+        height: 15px;
+    }
+
+    .overall {
+        font-family: 'Marcellus', serif;
+        font-size: 25px;
+        color: #000000;
+        text-align: center;
+        margin: 10px 85px;
+    }
+    .orang{
+        color: #FEDA77;
+    }
+
+    .sm-rela{
+        position: relative;
+    }
+    .sm-absolu{
+        position: absolute;
+    }
+    .about {
+        font-family: 'Marcellus', serif;
+        align-self: center;
+        background: rgba(49, 49, 49, 0.5);
+    }
+
+    .aboutt {
+        padding: 20px;
+        text-align: center;
+    }
+    .about h2 {
+        font-size: 30px;
+        font-family: 'Marcellus', serif;
+        color: white;
+    }
+    .sm-rela img{
+        height: 65vh;
+    }
+
+    .vector{
+        margin: 15px !important;
+    }
+    .sm-overa{
+        font-size: 20px;
+        padding: 0px 0px;
+        margin-bottom: 30px;
+    }
+    .sm-why{
+        object-fit: none;
+        height: 70vh;
+        opacity: 1;
+        filter: none;
+    }
+    .mr-100 {
+        margin-right: 0px;
+    }
+    .topp {
+        background: rgb(0 0 0 / 70%);
+        padding-left: 30px;
+        position: relative;
+        top: 49px;
+        margin-left: 80px;
+        text-align: center;
+    }
+    .mb-150{
+        margin-bottom: 150px !important;
+    }
+
+
+    .linefont{
+        font-size: 20px !important;
+        margin: 25px 30px;
+    }
+
+    .treatment ul li {
+        list-style: none;
+        font-family: 'Marcellus', serif;
+        font-size: 20px;
+        padding: 5px 0px;
+    }
+    .treatment ul{
+        padding-left: 50px;
+    }
+    .treatment img{
+        width: 15px;
+    }
+    .treatment span{
+        font-size: 18px;
+        margin-left: 0px !important;
+    }
+    .content {
+        padding: 15px 0px;
+        position: absolute;
+        bottom: 0;
+        background: rgb(0 0 0 / 55%);
+        right: 15px;
+        left: 15px;
+        font-family: 'Marcellus', serif;
+    }
+    .content h2 {
+        color: white;
+        font-family: 'Marcellus', serif;
+        font-size: 20px;
+        margin-bottom: 2px;
+    }
+    .content p {
+        color: white;
+        font-family: 'Marcellus', serif;
+        font-size: 14px;
+        line-height: 17px;
+        margin-bottom: 12px;
+    }
+    .read {
+        color: black !important;
+        font-family: 'Marcellus', serif;
+        background-color: #FBFBFB !important;
+        padding: 3px 10px;
+        border: none;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    hr {
+        border: none;
+        height: 2px;
+        color: #333;
+        background-color: #FEDA77;
+        margin-bottom: 0px !important;
+    }
+    .font-20 {
+        font-size: 20px;
+    }
+    .care .locate {
+        position: initial;
+        padding: 40px 20px;
+        right: 0px;
+        top: 35%;
+        background: rgb(0 0 0 / 55%);
+    }
+    .form-control {
+        height: 40px;
+        background-color: transparent;
+    }
+    .locate span {
+        color: black;
+        background-color: #FEDA77;
+        border-color: #FEDA77;
+        font-weight: 600;
+        padding: 0px 25px;
+        font-size: 15px;
+    }
+    .check {
+        background-color: black;
+        font-family: 'Marcellus', serif;
+        color: white;
+    }
+    .locates p {
+        margin-bottom: 0px;
+        font-size: 20px;
+        color: white;
+        font-family: 'Marcellus', serif;
+    }
+    .locates .ayt {
+        background-color: transparent;
+        color: #FEDA77;
+        padding: 0 !important;
+        font-size: 20px;
+    }
+    .flogo{
+        justify-content: center;
+    }
+    .flocat{
+        margin: 0;
+    }
+    .use ul li {
+        padding: 2px 0px;
+        font-size: 14px;
+    }
+    .use ul {
+        list-style: none;
+        padding: 0px;
+        padding-left: 50px;
+    }
+    .use ul span {
+        font-size: 15px;
+        font-weight: 900;
+        color: #FEDA77;
+    }
+    .use h5 {
+        padding-left: 50px;
+    }
+    .use {
+        color: white;
+        padding: 0px;
+    }
+    .cont {
+        color: #FEDA77;
+        font-size: 18px;
+    }
+    .follow {
+        text-align: center;
+        color: white;
+    }
+    .copy {
+        font-family: 'Marcellus', serif !important;
+        color: white;
+        font-size: 14px;
+        text-align: center;
+    }
+    .makes {
+        background-color: #313131 !important;
+        color: white !important;
+    }
+}
+
 @media only screen and (max-width:414px) {
     .dd-none{
         display: none;
@@ -95,7 +1032,7 @@
     }
 
     .vector{
-        margin: 25px !important;
+        margin: 15px !important;
     }
     .sm-overa{
         font-size: 20px;
@@ -103,7 +1040,7 @@
         margin-bottom: 30px;
     }
     .sm-why{
-        object-fit: cover;
+        object-fit: none;
         height: 70vh;
         opacity: 1;
         filter: none;
@@ -133,7 +1070,134 @@
         list-style: none;
         font-family: 'Marcellus', serif;
         font-size: 20px;
-        padding: 10px 0px;
+        padding: 5px 0px;
     }
-    
+    .treatment ul{
+        padding-left: 10px;
+    }
+    .treatment img{
+        width: 15px;
+    }
+    .treatment span{
+        font-size: 15px;
+        margin-left: 0px !important;
+    }
+    .content {
+        padding: 5px 0px;
+        position: absolute;
+        bottom: 0;
+        background: rgb(0 0 0 / 55%);
+        right: 15px;
+        left: 15px;
+        font-family: 'Marcellus', serif;
+    }
+    .content h2 {
+        color: white;
+        font-family: 'Marcellus', serif;
+        font-size: 16px;
+        margin-bottom: 2px;
+    }
+    .content p {
+        color: white;
+        font-family: 'Marcellus', serif;
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 5px;
+    }
+    .read {
+        color: black;
+        font-family: 'Marcellus', serif;
+        background-color: #FBFBFB;
+        padding: 3px 10px;
+        border: none;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    hr {
+        border: none;
+        height: 2px;
+        color: #333;
+        background-color: #FEDA77;
+        margin-bottom: 0px !important;
+    }
+    .font-20 {
+        font-size: 20px;
+    }
+    .care .locate {
+        position: initial;
+        padding: 40px 20px;
+        right: 0px;
+        top: 35%;
+        background: rgb(0 0 0 / 55%);
+    }
+    .form-control {
+        height: 40px;
+        background-color: transparent;
+    }
+    .locate span {
+        color: black;
+        background-color: #FEDA77;
+        border-color: #FEDA77;
+        font-weight: 600;
+        padding: 0px 25px;
+        font-size: 15px;
+    }
+    .check {
+        background-color: black;
+        font-family: 'Marcellus', serif;
+        color: white;
+    }
+    .locates p {
+        margin-bottom: 0px;
+        font-size: 20px;
+        color: white;
+        font-family: 'Marcellus', serif;
+    }
+    .locates .ayt {
+        background-color: transparent;
+        color: #FEDA77;
+        padding: 0 !important;
+        font-size: 20px;
+    }
+    .flogo{
+        justify-content: center;
+    }
+    .flocat{
+        margin: 0;
+    }
+    .use ul li {
+        padding: 2px 0px;
+        font-size: 14px;
+    }
+    .use ul {
+        list-style: none;
+        padding: 0px;
+        padding-left: 10px;
+    }
+    .use ul span {
+        font-size: 15px;
+        font-weight: 900;
+        color: #FEDA77;
+    }
+    .use h5 {
+        padding-left: 10px;
+    }
+    .use {
+        color: white;
+        padding: 0px;
+    }
+    .cont {
+        color: #FEDA77;
+        font-size: 18px;
+    }
+    .follow {
+        text-align: center;
+        color: white;
+    }
+    .copy {
+        font-family: 'Marcellus', serif !important;
+        color: white;
+        font-size: 14px;
+        text-align: center;
+    }
 }
