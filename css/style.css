@@ -7,7 +7,12 @@ body{
     font-size: 16px;
   }
 
-  
+  .justih .col-lg-4{
+
+    padding: 0px 5px;
+    place-self: center;
+  }
+
 .locate{
     place-self: center;
     font-weight: 600;
@@ -20,11 +25,12 @@ body{
     background-color: black;
 }
 .locate .branch{
-    padding: 20px 25px;
+    padding: 15px 25px;
     color: white;
 }
 .search{
-    padding: 20px 0px;
+    text-align: center;
+    padding: 15px 0px;
     
 }
 .search a{
