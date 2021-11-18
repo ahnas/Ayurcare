@@ -1230,6 +1230,7 @@
     }
     .title-fit{
         height: 40vh;
+        object-fit: cover;
     }
 
     .dd-none{
@@ -1622,6 +1623,7 @@
     }
     .aboout img{
         height: 90vh;
+        object-fit: cover;
     }
    
     .titile span{
@@ -1647,7 +1649,9 @@
         font-family: 'Marcellus', serif !important;
     }
     .title-fit{
-        height: 40vh;
+        height: 30vh;
+        object-fit: cover;
+        object-position: center;
     }
     .dd-none{
         display: none;
@@ -1677,6 +1681,7 @@
     }
     .banbg{
         height: 65vh;
+        object-fit: cover;
     }
 
     .ayurveda {

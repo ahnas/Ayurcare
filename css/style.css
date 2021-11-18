@@ -514,3 +514,11 @@ footer{
     background-color: #FEDA77;
     font-weight: 600;
 }
+.box-50 img{
+    height: 400px;
+    object-fit: cover;
+}
+.doc-height img{
+    height: 400px;
+    object-fit: cover;
+}
